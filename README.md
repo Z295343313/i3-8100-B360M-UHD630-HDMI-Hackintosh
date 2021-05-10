@@ -2,6 +2,7 @@
 主板只有HDMI、VGA、DVI接口，自测HDMI正常显示
 
 配置信息：
+
 CPU: Intel Core i3 8100
 
 GPU: Intel UHD Graphics 630 (Device ID 0x3E91)
