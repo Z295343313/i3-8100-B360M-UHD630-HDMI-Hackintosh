@@ -1,5 +1,5 @@
 # i3-8100-B360M-UHD630-HDMI-Hackintosh  
-主板只有HDMI、VGA、DVI接口，自测HDMI正常显示
+主板只有HDMI、VGA、DVI接口，自测HDMI正常显示,OpenCore引导
 
 配置信息：
 
