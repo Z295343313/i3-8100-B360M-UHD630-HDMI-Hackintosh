@@ -16,3 +16,5 @@ Audio Codec: Realtek ALC887
 Ethernet Card: Realtek RTL8111H
 
 Wifi/BT Card: NULL
+
+SMBIOS: Macmini8,1  Macmini(2018)
