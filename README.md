@@ -10,7 +10,7 @@ CPU: Intel Core i3 8100
 
 GPU: Intel UHD Graphics 630 (Device ID 0x3E91)
 
-RAM: 8GB DDR4 2400 * 1
+RAM: 16GB DDR4 2400 + 3200
 
 Motherboard:七彩虹 B360M (HDMI,VGA)
 
